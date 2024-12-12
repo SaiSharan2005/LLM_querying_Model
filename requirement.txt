@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+sentence-transformers 
+torch 
+tf-keras 
+fastapi-cors
+groq
+nltk
+deep_translator
+lang_detector
